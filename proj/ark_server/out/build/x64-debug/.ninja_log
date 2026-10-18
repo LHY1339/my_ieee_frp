@@ -1,9 +1,0 @@
-# ninja log v6
-7	700	8139947632775527	source/CMakeFiles/ArkServer.dir/src/client/client.cpp.obj	cbd55d4104035e00
-4	706	8139947632750505	source/CMakeFiles/ArkServer.dir/lib/netlib/netlib.cpp.obj	fc1cdb0225d13dc7
-6	722	8139947632765529	source/CMakeFiles/ArkServer.dir/src/main.cpp.obj	31f9caaa8704a192
-6	728	8139947632770528	source/CMakeFiles/ArkServer.dir/src/app/app.cpp.obj	3bd9ce384f48623a
-7	735	8139947632780529	source/CMakeFiles/ArkServer.dir/src/msg/msg.cpp.obj	8102c163affd77f
-8	754	8139947632790527	source/CMakeFiles/ArkServer.dir/src/session/session.cpp.obj	ff8047d4ddd8681c
-5	758	8139947632760529	source/CMakeFiles/ArkServer.dir/lib/baselib/baselib.cpp.obj	ed78642a60f80e39
-758	921	8139947640290530	D:/Desktop/IEEE/proj/ark_server/windows/ArkServer.exe	741658bb9c612940
