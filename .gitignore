@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Editor / build noise
+.vs/
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+out/
+windows/*.exe
+windows/*.pdb
+
+# Pre-fix snapshots, kept outside the artefact
+*.bak

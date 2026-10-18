@@ -13,7 +13,7 @@ msg::send_with_head 里**两次独立 send()** 触发了 Nagle + 延迟 ACK：
 长度头先走，正文被压住等 ACK。
 
 用法:
-    python diag_control_split.py --relay 111.228.32.155
+    python diag_control_split.py --relay <relay-ip>
 """
 import argparse
 import socket
