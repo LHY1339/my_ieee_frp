@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UnrealFRP.cpp.obj": [
+			"UnrealFRP.cpp.obj",
+			"BaseLib.cpp.obj",
+			"FRPLibrary.cpp.obj",
+			"FRPRunnable.cpp.obj",
+			"FRPSubsystem.cpp.obj",
+			"NetLib.cpp.obj"
+		],
+		"Module.UnrealFRP.gen.cpp.obj": [
+			"BaseLib.gen.cpp.obj",
+			"FRPLibrary.gen.cpp.obj",
+			"FRPSubsystem.gen.cpp.obj",
+			"NetLib.gen.cpp.obj",
+			"UnrealFRP.init.gen.cpp.obj"
+		]
+	}
+}
